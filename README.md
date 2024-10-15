@@ -7,3 +7,5 @@ How to git good at version control
 
 One more line
 
+## Section 2
+Pulling code from the remote.
